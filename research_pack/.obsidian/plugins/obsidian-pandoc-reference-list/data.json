@@ -1,0 +1,13 @@
+{
+  "pathToPandoc": "/usr/local/bin/pandoc",
+  "tooltipDelay": 400,
+  "zoteroGroups": [],
+  "renderCitations": true,
+  "renderCitationsReadingMode": true,
+  "renderLinkCitations": true,
+  "enableCiteKeyCompletion": true,
+  "pullFromZotero": true,
+  "showCitekeyTooltips": true,
+  "pathToBibliography": "/Users/test/konspekt_pack/07 service/my_library.json",
+  "cslStylePath": "/Users/test/konspekt_pack/07 service/apa.csl"
+}
